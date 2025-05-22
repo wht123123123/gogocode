@@ -42,8 +42,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 const outCode = script.generate();
 ```
 
-### Out
-
+### Out//////
 ```javascript
 const a = 1;
 const b = 1;
